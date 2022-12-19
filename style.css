@@ -1,0 +1,15 @@
+body {
+  background: linear-gradient(
+    to right,
+    rgb(246, 85, 85),
+    rgb(248, 172, 32),
+    rgb(248, 248, 85),
+    rgb(72, 195, 72),
+    rgb(104, 104, 241),
+    rgb(186, 88, 255),
+    violet
+  );
+  width: 100%;
+  height: auto;
+  animation: infinite;
+}
